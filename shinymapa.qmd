@@ -1,0 +1,14 @@
+---
+title: "Sevilla: Mapas de Sombra"
+---
+
+```{=html}
+<iframe id="mapa" src="https://frodsan.shinyapps.io/mapasdesombra/" style="border: none; width: 100%; height: 720px" frameborder="0"></iframe>
+```
+
+Este mapa muestra la intensidad de sombra o insolación por metro cuadrado para el mes y hora seleccionados.
+
+Puede seleccionarse el sombreado al nivel de la calle ("Suelo") o de los tejados, azoteas y copas de árboles ("Tejados").
+
+En este prototipo, la intensidad de sombra bajo las copas de los árboles (a nivel del suelo) tiene un valor fijo, independiente de las características del arbolado.
+

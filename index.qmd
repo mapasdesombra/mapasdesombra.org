@@ -1,0 +1,23 @@
+---
+# title: "mapasdesombra"
+---
+
+En esta web puedes consultar la **disponibilidad de sombra** en tu ciudad, calle a calle, en cualquier momento del año. 
+
+Y obtener **rutas de sombra** para desplazarte por la ciudad aprovechando la sombra que arrojan árboles y edificios.
+
+Primero **elige tu ciudad**:
+
+- [Sevilla](Sevilla.qmd)
+
+- Madrid *(en construcción)*
+
+- Barcelona *(en construcción)*
+
+- ¿Otro municipio? Consulta [Crea tu mapa](crea-tu-mapa.qmd)
+
+<br>
+
+![](img/sombras.png){width="60%" fig-align="center"}
+
+

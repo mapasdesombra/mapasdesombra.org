@@ -1,0 +1,20 @@
+---
+title: "Sevilla"
+fig-cap-location: top
+---
+
+::: {layout-ncol=2}
+
+[![Mapas de sombra](img/sombras.png)](shinymapa.qmd)
+
+[![Rutas de sombra](img/sombras.png)](shaderoute.qmd)
+
+:::
+
+
+
+
+
+
+
+

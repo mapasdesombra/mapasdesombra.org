@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "mapasdesombra.org"
+  search: false
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: Sevilla.qmd
+        text: Sevilla
+      - href: crea-tu-mapa.qmd
+        text: Crea tu mapa
+      - href: contacto.qmd
+        text: Contacto
+
+  page-footer: "Todos los contenidos con licencia [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)" 
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: true
+    fontsize: 1.5em
+
+
+

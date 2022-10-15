@@ -1,0 +1,7 @@
+---
+# title: "Contacto"
+---
+
+**mapasdesombra.org** es un proyecto desarrollado por [Francisco Rodríguez Sánchez](https://frodriguezsanchez.net) y Jesús Sánchez Dávila.
+
+Para cualquier consulta puedes escribirnos a [este email](mailto:f.rodriguez.sanc@gmail.com).
