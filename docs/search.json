@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "contacto.html",
+    "href": "contacto.html",
+    "title": "mapasdesombra.org",
+    "section": "",
+    "text": "Para cualquier consulta puedes escribirnos a este email."
+  },
+  {
+    "objectID": "shinymapa.html",
+    "href": "shinymapa.html",
+    "title": "Sevilla: Mapas de Sombra",
+    "section": "",
+    "text": "Este mapa muestra la intensidad de sombra o insolación por metro cuadrado para el mes y hora seleccionados.\nPuede seleccionarse el sombreado al nivel de la calle (“Suelo”) o de los tejados, azoteas y copas de árboles (“Tejados”).\nEn este prototipo, la intensidad de sombra bajo las copas de los árboles (a nivel del suelo) tiene un valor fijo, independiente de las características del arbolado."
+  },
+  {
+    "objectID": "Sevilla.html",
+    "href": "Sevilla.html",
+    "title": "Sevilla",
+    "section": "",
+    "text": "Mapas de sombra\n\n\n\n\n\nRutas de sombra"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "mapasdesombra.org",
+    "section": "",
+    "text": "Y obtener rutas de sombra para desplazarte por la ciudad aprovechando la sombra que arrojan árboles y edificios.\nPrimero elige tu ciudad:\n\nSevilla\nMadrid (en construcción)\nBarcelona (en construcción)\n¿Otro municipio? Consulta Crea tu mapa"
+  },
+  {
+    "objectID": "crea-tu-mapa.html",
+    "href": "crea-tu-mapa.html",
+    "title": "mapasdesombra.org",
+    "section": "",
+    "text": "Con CityShadeMapper puedes generar los mapas de sombra para cualquier municipio de España utilizando los datos abiertos de teledetección (LiDAR) ofrecidos por el Instituto Geográfico Nacional."
+  }
+]
