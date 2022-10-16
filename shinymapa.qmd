@@ -6,9 +6,14 @@ title: "Sevilla: Mapas de Sombra"
 <iframe id="mapa" src="https://frodsan.shinyapps.io/mapasdesombra/" style="border: none; width: 100%; height: 720px" frameborder="0"></iframe>
 ```
 
-Este mapa muestra la intensidad de sombra o insolación por metro cuadrado para el mes y hora seleccionados.
+Este mapa muestra la intensidad estimada de sombra o insolación por metro cuadrado para el mes y hora seleccionados.
 
 Puede seleccionarse el sombreado al nivel de la calle ("Suelo") o de los tejados, azoteas y copas de árboles ("Tejados").
 
+*Limitaciones*
+
+El modelo de sombra utiliza datos LiDAR de 2020. El relieve urbano puede haber cambiado puntualmente desde entonces (por ejemplo, por construcción de nuevos edificios, pérdida de árboles, etc). 
+
 En este prototipo, la intensidad de sombra bajo las copas de los árboles (a nivel del suelo) tiene un valor fijo, independiente de las características del arbolado.
 
+En cualquier caso, el mapa representa la sombra estimada según un modelo de insolación. Los valores reales pueden diferir puntualmente.
