@@ -9,7 +9,7 @@ website:
     left:
       - href: index.qmd
         text: Inicio
-      - href: Sevilla.qmd
+      - href: shinymapa.qmd
         text: Sevilla
       - href: crea-tu-mapa.qmd
         text: Crea tu mapa
@@ -23,7 +23,7 @@ format:
     theme: darkly
     css: styles.css
     toc: true
-    fontsize: 1.1em
+    fontsize: 1.3em
 
 
 

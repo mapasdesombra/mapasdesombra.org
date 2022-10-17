@@ -7,7 +7,7 @@ fig-cap-location: top
 
 [![Mapas de sombra](img/sombras.png)](shinymapa.qmd)
 
-[![Rutas de sombra](img/sombras.png)](shaderoute.qmd)
+<!-- [![Rutas de sombra](img/sombras.png)](shaderoute.qmd) -->
 
 :::
 
