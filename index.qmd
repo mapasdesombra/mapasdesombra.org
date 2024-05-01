@@ -10,11 +10,9 @@ Primero **elige tu ciudad**:
 
 - [Sevilla](shinymapa.qmd)
 
-- Madrid *(en construcción)*
+Otros municipios serán añadidos en el futuro. Si quieres generar tu propio mapa de sombra consulta [crea tu mapa](crea-tu-mapa.qmd).
 
-- Barcelona *(en construcción)*
-
-- ¿Otro municipio? Consulta [Crea tu mapa](crea-tu-mapa.qmd)
+Para saber más sobre la importancia de la sombra y cómo se generan estos mapas, puedes [leer esto](https://frodriguezsanchez.net/post/mapas-de-sombra/).
 
 <br>
 

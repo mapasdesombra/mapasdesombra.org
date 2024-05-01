@@ -1,0 +1,5 @@
+---
+# title: "Noticias"
+---
+
+- [Un «Google Maps» para sobrevivir al infierno urbano](https://www.larazon.es/andalucia/google-maps-sobrevivir-infierno-urbano_202404066610c9575e1b1f00012f5a7d.html). Un investigador de la Universidad de Sevilla crea una herramienta que calcula las rutas con más sombra: "El calor es un problema que va a ir agravándose cada vez más". *La Razón*, 6 abril 2024. 

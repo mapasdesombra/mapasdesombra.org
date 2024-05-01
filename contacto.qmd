@@ -2,6 +2,6 @@
 # title: "Contacto"
 ---
 
-**mapasdesombra.org** es un proyecto desarrollado por [Francisco Rodríguez Sánchez](https://frodriguezsanchez.net) y Jesús Sánchez Dávila.
+**mapasdesombra.org** es un proyecto desarrollado por [Francisco Rodríguez Sánchez](https://frodriguezsanchez.net) y Jesús Sánchez Dávila. Puedes leer algo más sobre el proyecto [aquí](https://frodriguezsanchez.net/post/mapas-de-sombra/). También puedes ver esta presentación sobre CityShadeMapper y mapas de sombra en [vídeo](https://youtu.be/XnvF17FjOpQ) o [diapositivas](https://doi.org/10.6084/m9.figshare.25435918.v1).
 
 Para cualquier consulta puedes escribirnos a [este email](mailto:f.rodriguez.sanc@gmail.com).

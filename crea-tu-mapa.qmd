@@ -6,4 +6,6 @@ Los mapas de sombra ofrecidos en esta página web han sido generados por un soft
 
 Con [CityShadeMapper](https://pakillo.github.io/CityShadeMapper) puedes generar los mapas de sombra para cualquier municipio de España utilizando los [datos abiertos de teledetección (LiDAR)](https://pnoa.ign.es/el-proyecto-pnoa-lidar) ofrecidos por el Instituto Geográfico Nacional.
 
+Puedes leer algo más sobre el proyecto [aquí](https://frodriguezsanchez.net/post/mapas-de-sombra/). También puedes ver esta presentación sobre CityShadeMapper y mapas de sombra en [vídeo](https://youtu.be/XnvF17FjOpQ) o [diapositivas](https://doi.org/10.6084/m9.figshare.25435918.v1).
+
 
