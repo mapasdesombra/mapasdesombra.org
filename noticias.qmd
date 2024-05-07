@@ -3,3 +3,5 @@
 ---
 
 - [Un «Google Maps» para sobrevivir al infierno urbano](https://www.larazon.es/andalucia/google-maps-sobrevivir-infierno-urbano_202404066610c9575e1b1f00012f5a7d.html). Un investigador de la Universidad de Sevilla crea una herramienta que calcula las rutas con más sombra: "El calor es un problema que va a ir agravándose cada vez más". *La Razón*, 6 abril 2024. 
+
+- CityShadeMappeR: creando mapas de sombras de alta resolución con datos abiertos de teledetección. Presentación en Sevilla R Users, 20 junio 2023. [Diapositivas](https://doi.org/10.6084/m9.figshare.25435918.v1) [Vídeo](https://youtu.be/XnvF17FjOpQ)

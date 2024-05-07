@@ -8,7 +8,7 @@ En esta web puedes consultar la **disponibilidad de sombra** en tu ciudad, calle
 
 Primero **elige tu ciudad**:
 
-- [Sevilla](shinymapa.qmd)
+- [Sevilla](Sevilla.qmd)
 
 Otros municipios serán añadidos en el futuro. Si quieres generar tu propio mapa de sombra consulta [crea tu mapa](crea-tu-mapa.qmd).
 

@@ -9,7 +9,7 @@ website:
     left:
       - href: index.qmd
         text: Inicio
-      - href: shinymapa.qmd
+      - href: Sevilla.qmd
         text: Sevilla
       - href: crea-tu-mapa.qmd
         text: Crea tu mapa
