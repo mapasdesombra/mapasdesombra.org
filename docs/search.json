@@ -7,8 +7,8 @@
     "text": "Los mapas de sombra ofrecidos en esta página web han sido generados por un software de código abierto (CityShadeMapper) desarrollado por Francisco Rodríguez Sánchez y Jesús Sánchez Dávila. Puedes descargarlo aquí: https://github.com/Pakillo/CityShadeMapper.\nCon CityShadeMapper puedes generar los mapas de sombra para cualquier municipio de España utilizando los datos abiertos de teledetección (LiDAR) ofrecidos por el Instituto Geográfico Nacional.\nPuedes leer algo más sobre el proyecto aquí. También puedes ver esta presentación sobre CityShadeMapper y mapas de sombra en vídeo o diapositivas."
   },
   {
-    "objectID": "Sevilla.html",
-    "href": "Sevilla.html",
+    "objectID": "shinymapa.html",
+    "href": "shinymapa.html",
     "title": "Sevilla: Mapas de Sombra",
     "section": "",
     "text": "(Ver mapa en nueva ventana)\nEste mapa muestra la intensidad estimada de sombra o insolación por metro cuadrado para el mes y hora seleccionados.\nPuede seleccionarse el sombreado al nivel de la calle (“Suelo”) o para los tejados, azoteas y copas de árboles (“Tejados”).\nLimitaciones\nEl modelo de sombra utiliza datos LiDAR de 2020. El relieve urbano puede haber cambiado puntualmente desde entonces (por ejemplo, por construcción de nuevos edificios, pérdida de árboles, etc).\nEn este prototipo, la intensidad de sombra bajo las copas de los árboles (a nivel del suelo) tiene un valor fijo, independiente de las características del arbolado.\nEn cualquier caso, el mapa representa la sombra estimada según un modelo de insolación. Los valores reales pueden diferir puntualmente.\nDatos\nPuedes descargar los mapas de sombra para todos los meses del año aquí, por ejemplo para analizarlos en un Sistema de Información Geográfica."
